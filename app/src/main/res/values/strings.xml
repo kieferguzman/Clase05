@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clase05</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="n1">Numero:</string>
+    <string name="n2">Numero2:</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="edtresultado" />
+    <string name="Resultado">edtresultado</string>
+</resources>
